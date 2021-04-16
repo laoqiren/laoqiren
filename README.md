@@ -2,7 +2,13 @@
 
 ## Who am I?
 
-I'm a JavaScript developer.
+```js
+const basicInfo = {
+  nickname: 'laoqiren',
+  email: 'swinds.luo@gmail.com',
+  addr: 'Beijing, China',
+};
+```
 
 ## How to contact with me?
 
